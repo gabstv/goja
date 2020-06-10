@@ -2,10 +2,11 @@ package goja
 
 import (
 	"fmt"
-	"github.com/dlclark/regexp2"
-	"github.com/dop251/goja/parser"
 	"regexp"
 	"strings"
+
+	"github.com/dlclark/regexp2"
+	"github.com/gabstv/goja/parser"
 )
 
 func (r *Runtime) newRegexpObject(proto *Object) *regexpObject {

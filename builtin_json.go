@@ -8,7 +8,7 @@ import (
 	"math"
 	"strings"
 
-	"github.com/dop251/goja/unistring"
+	"github.com/gabstv/goja/unistring"
 )
 
 const hex = "0123456789abcdef"

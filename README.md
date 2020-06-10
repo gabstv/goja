@@ -26,7 +26,7 @@ FAQ
 Although it's faster than many scripting language implementations in Go I have seen 
 (for example it's 6-7 times faster than otto on average) it is not a
 replacement for V8 or SpiderMonkey or any other general-purpose JavaScript engine.
-You can find some benchmarks [here](https://github.com/dop251/goja/issues/2).
+You can find some benchmarks [here](https://github.com/gabstv/goja/issues/2).
 
 ### Why would I want to use it over a V8 wrapper?
 

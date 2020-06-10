@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"regexp"
 
-	"github.com/dop251/goja/ast"
-	"github.com/dop251/goja/file"
-	"github.com/dop251/goja/token"
-	"github.com/dop251/goja/unistring"
+	"github.com/gabstv/goja/ast"
+	"github.com/gabstv/goja/file"
+	"github.com/gabstv/goja/token"
+	"github.com/gabstv/goja/unistring"
 )
 
 var (

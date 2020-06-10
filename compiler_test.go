@@ -1,10 +1,11 @@
 package goja
 
 import (
-	"github.com/dop251/goja/parser"
 	"io/ioutil"
 	"os"
 	"testing"
+
+	"github.com/gabstv/goja/parser"
 )
 
 func testScript(script string, expectedResult Value, t *testing.T) {

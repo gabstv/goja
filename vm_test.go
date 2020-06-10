@@ -1,8 +1,9 @@
 package goja
 
 import (
-	"github.com/dop251/goja/parser"
 	"testing"
+
+	"github.com/gabstv/goja/parser"
 )
 
 func TestVM1(t *testing.T) {
